@@ -1,0 +1,4 @@
+learnt about basic git commands push,
+commit,push,add,status,
+creating the new branch,
+adding it to main
